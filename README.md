@@ -24,12 +24,20 @@ Git & GitHub	Version control
 Eclipse / IntelliJ / VS Code	IDE
 📂 Project Structure
 Pet-Shop-Management-System/
+
 │
+
 ├── src/
+
 │   └── in/
+
 │       └── sp/
+
 │           └── pet/
+
 │               └── PetManagementSystem.java
+
+
 │
 ├── README.md
 
